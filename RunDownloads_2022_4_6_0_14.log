@@ -1,0 +1,93 @@
+2022-04-06 00:14:14,448 - vedio_downloads.py:38 - INFO - start run!
+2022-04-06 00:14:18,578 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_2bufryvc36k.html
+2022-04-06 00:14:18,578 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0403期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            157.97 MiB (165643513 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:14:18,579 - vedio_downloads.py:52 - INFO - 完成第1个
+2022-04-06 00:14:21,531 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_2993z2f1klc.html
+2022-04-06 00:14:21,540 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0509期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            119.54 MiB (125349792 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:14:21,541 - vedio_downloads.py:52 - INFO - 完成第2个
+2022-04-06 00:14:42,894 - vedio_downloads.py:38 - INFO - start run!
+2022-04-06 00:14:46,505 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_2bufryvc36k.html
+2022-04-06 00:14:46,505 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0403期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            157.97 MiB (165643513 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:14:46,505 - vedio_downloads.py:52 - INFO - 完成第1个
+2022-04-06 00:14:49,293 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_2993z2f1klc.html
+2022-04-06 00:14:49,293 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0509期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            119.54 MiB (125349792 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:14:49,293 - vedio_downloads.py:52 - INFO - 完成第2个
+2022-04-06 00:16:09,494 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_lmhkxrqwlk.html
+2022-04-06 00:16:09,494 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0402期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            158.45 MiB (166143159 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:16:09,494 - vedio_downloads.py:52 - INFO - 完成第3个
+2022-04-06 00:16:46,349 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_fnv2jl6aqc.html
+2022-04-06 00:16:46,349 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0401期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            116.39 MiB (122044806 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:16:46,350 - vedio_downloads.py:52 - INFO - 完成第4个
+2022-04-06 00:18:12,834 - vedio_downloads.py:23 - INFO - URL:  https://www.iqiyi.com/v_2bx0gdxkbbo.html
+2022-04-06 00:18:12,835 - vedio_downloads.py:24 - INFO - Name:  
+ Site:      爱奇艺 iqiyi.com
+ Title:     2021交通事故合集（0507期）
+ Type:      video
+ Stream:   
+     [5]  -------------------
+     Quality:         1920x1080
+     Size:            160.89 MiB (168709073 Bytes)
+     # download with: lux -f 5 ...
+
+
+2022-04-06 00:18:12,835 - vedio_downloads.py:52 - INFO - 完成第5个
